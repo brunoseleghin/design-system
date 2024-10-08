@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@gilla-design-system/react",
+  "version": "2.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.mts",
@@ -21,9 +21,9 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gilla-design-system/eslint-config": "*",
+    "@gilla-design-system/tokens": "*",
+    "@gilla-design-system/ts-config": "*",
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-checkbox": "^1.1.1",
     "@stitches/react": "^1.2.8",

@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@gilla-design-system/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,10 +12,10 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gilla-design-system/eslint-config": "*",
+    "@gilla-design-system/react": "*",
+    "@gilla-design-system/tokens": "*",
+    "@gilla-design-system/ts-config": "*",
     "@storybook/addon-a11y": "^8.3.5",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
