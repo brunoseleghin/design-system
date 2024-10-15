@@ -1,6 +1,6 @@
 import type { StoryObj, Meta } from "@storybook/react"
 
-import { Tooltip, TooltipProps, Text } from "@gilla-design-system/react"
+import { Tooltip, TooltipProps } from "@gilla-design-system/react"
 
 export default {
   title: 'Information/Tooltip',
